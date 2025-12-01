@@ -1,1 +1,1 @@
-Nenhum requerimento do pip necessário, apenas o python3 e venv(opcional) é o suficiente para rodar.
+colorama==0.4.6
